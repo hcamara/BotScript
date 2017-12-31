@@ -6,6 +6,6 @@
 add.entity.hello: hi, hello, hey;
 ```
 ```
-add.intent.sayHello: hello => Hello human;
+add.intent.sayHello: hello => Hi human;
 ```
-
+### Building your first bot
