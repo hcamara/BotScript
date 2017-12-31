@@ -1,6 +1,6 @@
 # BotScript
 
-## Building your first bot
+### Building your first bot
 ```
 add.entity.hello: hi,hello,hey;
 add.entity.question: what, where, how;
